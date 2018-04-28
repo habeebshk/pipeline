@@ -46,7 +46,7 @@
 	<snapshotRepository>
 		<id>deploymentRepo</id>
 		<name>Internal Releases</name>
-		<url>http://<nexus-ip>:8081/repository/maven-snapshots/</url>
+		<url>http://35.196.155.242:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 </distributionManagement>
 
